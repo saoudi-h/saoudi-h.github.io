@@ -1,6 +1,6 @@
 # Portfolio github.io:
-Bienvenue sur le dépôt de mon portfolio GitHub.io, je suis Hakim Saoudi - Développeur web fullstack.
-[Ici]("https://saoudi-h.github.io") vous trouverez mes différents projets. 
+Bienvenue sur le dépôt de mon portfolio GitHub.io, je suis Hakim Saoudi - Développeur web fullstack.<br>
+[Ici](https://saoudi-h.github.io) vous trouverez mes différents projets. 
 
 ## Projets présentés :
 ### Projet 1
