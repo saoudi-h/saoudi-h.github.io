@@ -3,9 +3,13 @@ Bienvenue sur le dépôt de mon portfolio GitHub.io, je suis Hakim Saoudi - Dév
 [Ici](https://saoudi-h.github.io) vous trouverez mes différents projets. 
 
 ## Projets présentés :
-### Projet 1
-### Projet 2
-### Projet 3
+
+### [La Symphonie Des Délices](https://saoudi-h.github.io/LaSymphonieDesDelices/) / [github](https://github.com/saoudi-h/LaSymphonieDesDelices)
+Ce projet est un site vitrine pour une pâtisserie fictive. Il a été développé en HTML et CSS pur, en utilisant des notions telles que le responsive design, le maquettage, le zoning, ainsi que les concepts avancés de CSS tels que Flexbox et CSS Grid.
+
+### [form-vanilla](https://saoudi-h.github.io/form-vanilla/) / [github](https://github.com/saoudi-h/form-vanilla)
+Formulaire de vérification avant envoi réalisé dans le cadre de ma formation de développeur web. Utilise JavaScript Vanilla.
+
 
 ## Retrouvez moi sur:
 
